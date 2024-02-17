@@ -1,3 +1,6 @@
+"""
+Script for combining CSV files with the same prefix into a single CSV file.
+"""
 import os
 import csv
 
