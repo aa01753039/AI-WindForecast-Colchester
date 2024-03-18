@@ -27,10 +27,6 @@ To be considered a surplus, the farm must generate over 3,082,500 W. We estimate
 - [Wind Power in the United Kingdom - Wikipedia](https://en.wikipedia.org/wiki/Wind_power_in_the_United_Kingdom)
 - [Electricity Costs by Time of Day - MoneySuperMarket](https://www.moneysupermarket.com/gas-and-electricity/is-electricity-cheaper-at-night/#:~:text=When%20is%20peak%20time%20for,during%20the%20daytime%20and%20evening.)
 
----
-Incorporating the use of the script in the `README.md` under a new section titled **Preparing the Dataset**:
-
----
 
 ## Preparing the Dataset
 
